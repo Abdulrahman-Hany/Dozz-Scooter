@@ -4026,7 +4026,6 @@
   /*  BASE
   /*------------------------------------------*/
 
-  #stlChanger { display: none; }
   .division { padding-left: 10px; padding-right: 10px; }
   .bg--fixed { width: auto; }
   .bg--scroll { width: auto; background-attachment: scroll!important; }
