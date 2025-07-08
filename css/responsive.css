@@ -5049,7 +5049,7 @@
   /*  BASE
   /*------------------------------------------*/
 
-  #stlChanger { display: none; }
+
   .division { padding-left: 8px; padding-right: 8px; }
   .bg--fixed { width: auto; }
   .bg--scroll { width: auto; background-attachment: scroll!important; }
@@ -6088,7 +6088,6 @@
   /*  BASE
   /*------------------------------------------*/
 
-  #stlChanger { display: none; }
   .ts-0 { padding-top: 80px; }
   .division { padding-left: 5px; padding-right: 5px; }
   .bg--fixed { width: auto; }
@@ -7118,7 +7117,6 @@
   /*  BASE
   /*------------------------------------------*/
 
-  #stlChanger { display: none; }
   .division { padding-left: 0; padding-right: 0; }
   .ts-0 { padding-top: 80px; }
   .bg--fixed { width: auto; }
